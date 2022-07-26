@@ -1,4 +1,4 @@
-## Spring-Batch-Example for file processing
+## Spring-Batch library for file processing
 
 Spring batch library provides intesnsive API to process huge file and it support mupliple file formats JSON,XML for file processing.
 
