@@ -1,6 +1,6 @@
 ## Spring-Batch library for file processing
 
-Spring batch library provides intesnsive API to process huge file and it support mupliple file formats JSON,XML for file processing.
+Spring batch library provides intesnsive API to process huge logs file and it support mupliple file formats JSON,XML for file processing.
 
 The library provides multiple implementation for custom processing. Official documentations is available https://docs.spring.io/spring-batch/docs/current/reference/html/readersAndWriters.html#readersAndWriters
 
