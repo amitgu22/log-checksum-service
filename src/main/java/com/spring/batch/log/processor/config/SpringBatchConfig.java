@@ -64,7 +64,7 @@ public class SpringBatchConfig {
     public JdbcBatchItemWriter<Event> writer() {
         JdbcBatchItemWriter<Event> writer = new JdbcBatchItemWriter<>();
         writer.setItemSqlParameterSourceProvider(new BeanPropertyItemSqlParameterSourceProvider<>());
-        writer.setSql("insert into EVENT(id,host,type,timestamp,alert) values (:id,:host,:type,:timestamp,:alert)");
+        writer.setSql("insert into EVENT(id,host,type,duration,alert) values (:id,:host,:type,:timestamp,:alert)");
         writer.setDataSource(dataSource);
         startTime = System.currentTimeMillis();
         return writer;
