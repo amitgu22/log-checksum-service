@@ -4,9 +4,9 @@ Spring batch library provides intesnsive API to process huge logs file with supp
 
 The library provides multiple implementation for custom processing. Official documentations is available https://docs.spring.io/spring-batch/docs/current/reference/html/readersAndWriters.html#readersAndWriters
 
-This small spring boot application gives demo on JSON file reading and some custom processing on the available records.
+This small spring boot application gives demo on JSON file reading and custom processing on the available records.
 
-It used in build JOB available for persisting data to the database.
+At the end it used JOB for persisting data to the database.
 
 
 
