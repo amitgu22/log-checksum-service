@@ -1,44 +1,12 @@
-# JsonItemReader-Spring-Batch-Example
-JsonItemReader Spring Batch Example
+## Spring-Batch-Example for file processing
 
-https://www.netsurfingzone.com/spring-batch/jsonitemreader-spring-batch-example/
+Spring batch library provides intesnsive API to process huge file and it support mupliple file formats JSON,XML for file processing.
 
-Spring Batch FlatFileItemReader Example
+The library provides mulpiple implementtation for custom processing. Official documentations is available https://docs.spring.io/spring-batch/docs/current/reference/html/readersAndWriters.html#readersAndWriters
 
-https://www.netsurfingzone.com/spring-batch/spring-batch-flatfileitemreader-example/
+This small spring boot application gives demo on JSON file reading and some custom processing on the available records.
 
-Other Spring Batch tutorials.
-
-Spring Batch ItemProcessor example.
-
-https://www.netsurfingzone.com/spring-boot/spring-batch-itemprocessor-example/
-
-JpaPagingItemReader Example
-
-https://www.netsurfingzone.com/spring-batch/jpapagingitemreader-example/
-
-JdbcPagingItemReader spring batch example
-
-https://www.netsurfingzone.com/spring-batch/jdbcpagingitemreader-spring-batch-example/
-
-StaxEventItemReader Example
-
-https://www.netsurfingzone.com/spring-batch/staxeventitemreader-example/
+It used in build JOB available for persisting data to the database.
 
 
-JdbcCursorItemReader Spring Batch Example
 
-https://www.netsurfingzone.com/spring-boot/jdbccursoritemreader-spring-batch-example/
-
-CompositeItemProcessor Spring Batch Example
-
-https://www.netsurfingzone.com/spring-batch/compositeitemprocessor-spring-batch-example/
-
-Spring Batch ItemReader Example
-
-https://www.netsurfingzone.com/spring-batch/spring-batch-itemreader-example/
-
-StoredProcedureItemReader example
-
-https://www.netsurfingzone.com/spring-batch/storedprocedureitemreader-example/
-# Log-cheksum
