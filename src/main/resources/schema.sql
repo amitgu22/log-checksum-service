@@ -11,7 +11,7 @@ CREATE TABLE EVENT (
                          id VARCHAR(50) NOT NULL,
                          host VARCHAR(50) ,
                          type VARCHAR(20) ,
-                         timestamp BIGINT NOT NULL,
+                         duration BIGINT NOT NULL,
                          alert VARCHAR(20) NOT NULL
 
 
