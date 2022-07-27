@@ -6,7 +6,7 @@ The library provides multiple implementation for custom processing. Official doc
 
 This small spring boot application gives demo on JSON file reading and custom processing on the available records.
 
-At the end it used JOB for persisting data to the database.
+At the end it will used a JOB for persisting data to the database.
 
 
 
