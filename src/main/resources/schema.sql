@@ -1,10 +1,4 @@
-DROP TABLE IF EXISTS STUDENT;
-CREATE TABLE STUDENT (
-                               id INT NOT NULL,
-                               name VARCHAR(50) NOT NULL,
-                               roll_number VARCHAR(20) NOT NULL
 
-);
 
 DROP TABLE IF EXISTS EVENT;
 CREATE TABLE EVENT (
